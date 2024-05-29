@@ -1,0 +1,27 @@
+img{
+    object-fit: cover;
+    width: 100%;
+    vertical-align: middle;
+    max-height: 284px;
+}
+.w3-content{
+    max-width: 100% !important;
+}
+ul li{
+    width:100% !important;
+    display: flex;
+    align-items: center;
+}
+ul li img{
+    width: 40px;
+}
+.image-title{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    font-family: "Raleway", sans-serif;
+}
+.first-content{
+    margin-bottom: 26px !important;
+}
